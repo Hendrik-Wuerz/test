@@ -1,2 +1,3 @@
 Eine neue Datei!!!
 Git is running
+This is a test.
